@@ -3,22 +3,26 @@ Solving here Data Structures and Algorithms problem with Python.
 
 The problems are based on below topics:
 
-Recursion 1
-Recursion 2
-Recursion 3
+Recursion 
+
 Time and space complexity
 
-OOPS - 1
-OOPS - 2
-Linked list -1
-Linked list -2
+OOPS
+
+Linked list
 
 Stacks & Queues
+
 Trees
+
 Binary trees
+
 BST
 
 Priority Queues/Heaps
+
 Tries and Huffman Coding
+
 Dynamic programming
+
 Graphs
